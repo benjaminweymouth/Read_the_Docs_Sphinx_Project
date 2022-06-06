@@ -4,6 +4,13 @@ Welcome to Lumache's documentation!
 Test 123 
 ===================================
 
+.. image:: picture.jpeg
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+   
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
