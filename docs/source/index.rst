@@ -24,10 +24,3 @@ Contents
    api
 
 
-.. note2::
-
-   This project is under active development.
-   
-.. note3::
-
-   This project is under active development.
