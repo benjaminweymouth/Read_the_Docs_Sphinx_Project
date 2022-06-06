@@ -6,9 +6,9 @@ Test 123
 
  
 .. image:: introtoPRODUCT.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+   :height: 400px
+   :width: 400 px
+   :scale: 100 %
    :alt: alternate text
    :align: right
    
