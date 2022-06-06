@@ -11,6 +11,7 @@ Test 123
    :scale: 100 %
    :alt: alternate text
    :align: right
+   :target: https://github.com/benjaminweymouth
    
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
