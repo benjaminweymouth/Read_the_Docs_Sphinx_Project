@@ -4,6 +4,7 @@ Welcome to Lumache's documentation!
 Test 123 
 ===================================
 
+Sample Image added 
 .. image:: introtoPRODUCT.png
    :height: 100px
    :width: 200 px
