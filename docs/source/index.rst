@@ -6,7 +6,7 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
 ===================================
 
  
-.. image:: introtoPRODUCT.png
+.. image:: 1.png
    :height: 400px
    :width: 400 px
    :scale: 100 %
