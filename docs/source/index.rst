@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to POC for the Hyperledger LMWG Taskforce!
 ===================================
 
-Test 123 
+A Proof of Concept / Tutorial Page to dive into the customization options and reStructured Syntax for a ReadTheDocs page. 
 ===================================
 
  
