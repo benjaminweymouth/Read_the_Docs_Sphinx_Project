@@ -1,7 +1,8 @@
-Example / Proof of Concept for HyperLedger LMWG
+===================================
+Welcome to POC for the Hyperledger LMWG Taskforce!
 ===================================
 
-Test 123 
+A Proof of Concept / Tutorial Page to dive into the customization options and reStructured Syntax for a ReadTheDocs page. 
 ===================================
 
  
@@ -10,8 +11,8 @@ Test 123
    :width: 400 px
    :scale: 100 %
    :alt: alternate text
-   :align: right
-   :target: https://github.com/benjaminweymouth
+   :align: left
+   :target: https://wiki.hyperledger.org/display/LMDWG
    
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -30,7 +31,7 @@ how to :ref:`installation` the project.
    This project is under active development.
 .. note2:: 
 
-   This is a second note
+   This is a second note2
 
    
 Contents
