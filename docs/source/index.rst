@@ -8,18 +8,18 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
  
 .. image:: 1.png
    :height: 400px
-   :width: 400 px
+   :width: 153 px
    :scale: 100 %
    :alt: alternate text
-   :align: left
+   :align: center
    :target: https://wiki.hyperledger.org/display/LMDWG
 
 .. image:: 2.png
    :height: 400px
-   :width: 400 px
+   :width: 153 px
    :scale: 100 %
    :alt: alternate text
-   :align: left
+   :align: center
    :target: https://wiki.hyperledger.org/display/LMDWG
    
    
