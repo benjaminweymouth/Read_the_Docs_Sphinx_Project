@@ -13,14 +13,6 @@ Test 123
    :align: left
    :target: https://wiki.hyperledger.org/display/LMDWG
    
-  .. image:: introtoPRODUCT.png
-   :height: 400px
-   :width: 400 px
-   :scale: 100 %
-   :alt: alternate text
-   :align: right
-   :target: https://wiki.hyperledger.org/display/LMDWG 
-   
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
