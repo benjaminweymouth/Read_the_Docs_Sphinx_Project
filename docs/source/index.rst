@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Example / Proof of Concept for HyperLedger LMWG
 ===================================
 
 Test 123 
