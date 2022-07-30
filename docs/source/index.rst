@@ -11,7 +11,7 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
    :width: 200px 
    :scale: 100 %
    :alt: alternate text
-   :align: center
+   :align: left
    :target: https://wiki.hyperledger.org/display/LMDWG
 
 .. image:: 2.png
@@ -19,7 +19,7 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
    :width: 200px 
    :scale: 100 %
    :alt: alternate text
-   :align: center
+   :align: right
    :target: https://wiki.hyperledger.org/display/LMDWG
    
    
