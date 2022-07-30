@@ -7,7 +7,7 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
 
  
 .. image:: 1.png
-   :height: 76.5px
+   :height: 76px
    :width: 200px 
    :scale: 100 %
    :alt: alternate text
@@ -15,7 +15,7 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
    :target: https://wiki.hyperledger.org/display/LMDWG
 
 .. image:: 2.png
-   :height: 76.5px
+   :height: 76px
    :width: 200px 
    :scale: 100 %
    :alt: alternate text
