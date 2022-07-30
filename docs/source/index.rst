@@ -7,16 +7,16 @@ A Proof of Concept / Tutorial Page to dive into the customization options and re
 
  
 .. image:: 1.png
-   :height: 153px
-   :width: 400px 
+   :height: 76.5px
+   :width: 200px 
    :scale: 100 %
    :alt: alternate text
    :align: center
    :target: https://wiki.hyperledger.org/display/LMDWG
 
 .. image:: 2.png
-   :height: 153px
-   :width: 400px 
+   :height: 76.5px
+   :width: 200px 
    :scale: 100 %
    :alt: alternate text
    :align: center
