@@ -2,7 +2,9 @@ ReadtheDocs POC for Hyperledger Projects:
 =======================================
 
 
-![image](https://github.com/benjaminweymouth/Read_the_Docs_Sphinx_Project/blob/main/POC%20part%201.png)
+![image](https://raw.githubusercontent.com/benjaminweymouth/Read_the_Docs_Sphinx_Project/main/POC%20part%201.png)
+
+https://raw.githubusercontent.com/benjaminweymouth/Read_the_Docs_Sphinx_Project/main/POC%20part%201.png
 
 This GitHub Repo was created for developing a template through a POC (Proof of Concept) of ReadtheDocs functionality for Hyperledger Projects. 
 Linked up Github with ReadtheDocs so that a Pull Request syncs to the documentation page
