@@ -23,6 +23,4 @@ various themes are available
 backgrounds for code snippets like dark mode are available 
 Tables, References / Bibliographic citations and a Table of Contents are available 
 
-
-
 A POC was performed for ReadtheDocs using the Sphinx tutorial. Was to ensure that certain features that are in the web3 community may be applicable to Hyperledger projects. It was found that features are available but ReadtheDocs relies on third-party plug ins and that deeper / more web3-style layouts would require customization work. 
