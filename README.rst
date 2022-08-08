@@ -1,7 +1,7 @@
 ReadtheDocs POC for Hyperledger Projects: 
 =======================================
 
-[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]
+ 
 
 This GitHub Repo was created for developing a template through a POC (Proof of Concept) of ReadtheDocs functionality for Hyperledger Projects. 
 Linked up Github with ReadtheDocs so that a Pull Request syncs to the documentation page
