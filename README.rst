@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+A Proof of Concept / Tutorial Page to dive into the customization options and reStructured Syntax for a ReadTheDocs page
 =======================================
 
 This GitHub template includes fictional Python library
