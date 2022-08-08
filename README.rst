@@ -2,7 +2,7 @@ ReadtheDocs POC for Hyperledger Projects:
 =======================================
 
 .. image:: https://github.com/benjaminweymouth/Read_the_Docs_Sphinx_Project/blob/bfdf816643305a94da487f84f1d6d11071d01ce3/POC%20part%201.png
-  :width: 400
+  :width: 800
   :alt: Alternative text
 
 
