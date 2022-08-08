@@ -1,7 +1,6 @@
 ReadtheDocs POC for Hyperledger Projects: 
 =======================================
-
-A GitHub Repo was created for a POC of ReadtheDocs functionality for Hyperledger Projects 
+This GitHub Repo was created for developing a template through a POC (Proof of Concept) of ReadtheDocs functionality for Hyperledger Projects. 
 Linked up Github with ReadtheDocs so that a Pull Request syncs to the documentation page
 ReStructured Text Syntax was utilized to test image-based button linking 
 
